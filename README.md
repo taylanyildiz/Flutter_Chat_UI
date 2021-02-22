@@ -1,4 +1,4 @@
-# flutter_app_test_00002
+# FLUTTER CHAT UI DESIGN 
 
 A new Flutter application.
 
